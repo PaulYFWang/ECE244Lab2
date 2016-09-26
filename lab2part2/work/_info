@@ -1,0 +1,86 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/altera_lite/16.0/lab2part2
+vlab2part2
+!s110 1474859032
+!i10b 1
+!s100 BIcEWRP8N>9iJk21S42[e3
+I5T]m98nz4WXjKm>n=SIz72
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1474858983
+Z2 8lab2part2.v
+Z3 Flab2part2.v
+L0 8
+Z4 OV;L;10.4d;61
+r1
+!s85 0
+31
+!s108 1474859032.000000
+!s107 lab2part2.v|
+Z5 !s90 -reportprogress|300|lab2part2.v|
+!i113 1
+vmux
+Z6 !s110 1474860738
+!i10b 1
+!s100 bZg]Bm33YU`enW`=GDSA@2
+IW?k7Sl[0B;3joAbeY?BLi3
+R1
+R0
+Z7 w1474860171
+R2
+R3
+L0 8
+R4
+r1
+!s85 0
+31
+Z8 !s108 1474860738.000000
+Z9 !s107 lab2part2.v|
+R5
+!i113 1
+vmux2to1
+R6
+!i10b 1
+!s100 b3]M;k4o4KJVzLSMAn_g>1
+I<Boj56@zW:9g=CF:g7<ZR2
+R1
+R0
+R7
+R2
+R3
+L0 23
+R4
+r1
+!s85 0
+31
+R8
+R9
+R5
+!i113 1
+vmux4to1
+R6
+!i10b 1
+!s100 TCn4=3oBVg6>;3mKPI1aB3
+IL^TNd`_[A0;3Flk]BD1V]1
+R1
+R0
+R7
+R2
+R3
+L0 35
+R4
+r1
+!s85 0
+31
+R8
+R9
+R5
+!i113 1
